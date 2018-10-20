@@ -3,7 +3,7 @@
 
 ### Compatibility 
 
-Android 9.0 Aosp based Roms for now .Will add other Roms in version 1.1
+Tested on Android 9.0 but should work on Any Rom 
 
 ![img](https://www.androidheadlines.com/wp-content/uploads/2018/10/Customized-Pixel-Launcher-CPL-official-image-1.png)
 Installs Customized Pixel lawncher systemlessly. 
