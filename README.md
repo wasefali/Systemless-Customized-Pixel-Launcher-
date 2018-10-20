@@ -1,11 +1,11 @@
-# Systemless-Customized-Pixel-Launcher
+
 # Customized Pixel Launcher Systemless for Pie 9.0
 
 ### Compatibility 
 
 Android 9.0 Aosp based Roms for now .Will add other Roms in version 1.1
 
-![img](https://lh4.googleusercontent.com/2DO2Gz-3qwAafbjoXq0Gi0_5sepLfK0iJ8U7LjVWbV8XkFxF04U_l6COJ3LfpvdQ1UNBc0HZfXSWBkorZ0uW=w1837-h2883-rw)
+![img](https://www.androidheadlines.com/wp-content/uploads/2018/10/Customized-Pixel-Launcher-CPL-official-image-1.png)
 Installs Customized Pixel lawncher systemlessly. 
 2nd generation Pixel Launcher home screen with many settings.
 
