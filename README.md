@@ -72,7 +72,7 @@ Notes for the Play Market Version:
   
   ### Thanks to 
   
-  •**[Gloyeisk](https://t.me/gloyeisk)**   **for guidance in various matters**
+  •**[Gloeyisk](https://t.me/gloeyisk)**   **for guidance in various matters**
   
   
   •**[JayminSuthar](https://t.me/sjaymin)**  **for guidance in various field**
