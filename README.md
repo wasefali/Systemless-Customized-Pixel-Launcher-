@@ -60,8 +60,8 @@ https://github.com/whataudoinghere/Feed_and_Weather_Plugin/releases
 
 ### Version 
 
-  ####1.0
-  ####Initial release 
+  #### 1.0
+  #### Initial release 
   
   ### Contact Me on Telegram
   
@@ -70,11 +70,11 @@ https://github.com/whataudoinghere/Feed_and_Weather_Plugin/releases
   
   ### Thanks to 
   
-  •**[Gloyeisk](https://t.me/gloyeisk)** for guidance 
+  •**[Gloyeisk](https://t.me/gloyeisk)**   **for guidance in various matters**
   
   
-  •**[JayminSuthar](https://t.me/sjaymin)**  for guidance in various fuild
+  •**[JayminSuthar](https://t.me/sjaymin)**  **for guidance in various field**
   
   •**[Mortal1711](https://t.me/Mortal1711) for testing**
   
-  •**[Serendeep](https://t.me/CursedApple)** for testing
+  •**[Serendeep](https://t.me/CursedApple)**  **for testing**
