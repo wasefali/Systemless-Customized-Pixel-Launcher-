@@ -68,7 +68,7 @@ https://github.com/whataudoinghere/Feed_and_Weather_Plugin/releases
   [DrW Dragon On Sale](https://t.me/Caseation)
   
   
-  ###Thanks to 
+  ### Thanks to 
   
   •**[Gloyeisk](https://t.me/gloyeisk)** for guidance 
   
@@ -77,4 +77,4 @@ https://github.com/whataudoinghere/Feed_and_Weather_Plugin/releases
   
   •**[Mortal1711](https://t.me/Mortal1711) for testing**
   
-  •**[Serendeep(https://t.me/CursedApple)** for testing
+  •**[Serendeep](https://t.me/CursedApple)** for testing
