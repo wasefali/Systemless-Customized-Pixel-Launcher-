@@ -1,9 +1,11 @@
 
 
+<p align="center">
+ <b> Customized Pixel Launcher Systemless </b>
  
-[img](https://lh6.googleusercontent.com/AJOP_AHACZYkPkbYX_0CYY2dDTPo9ltgJMxI52-fO_jjOx8TEPFYPxyLKorPZ_HaChibkCctPhtQ1h2bil6H=w1837-h2883)
+<a href="https://imgur.com/CCHCDAV"><img src="https://i.imgur.com/CCHCDAV.png" title="source: imgur.com" /></a>
  
-<b> Customized Pixel Launcher Systemless </b>
+
 
 
 **After trying so many Launchers , imo this is the most customizable Pixel Launcher in the market and it's free .It worths a try .The module Installs Customized Pixel lawncher systemlessly**
