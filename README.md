@@ -68,8 +68,8 @@ Notes for the Play Market Version:
   #### Initial release 
   
   ### Contact Me on Telegram
-  
-  • **[DrW Dragon On Sale](https://t.me/Caseation)**
+ 
+![img](https://img.shields.io/badge/Dr-WASEF-green.svg?style=flat?logo=telegram?logocolor=blue?)
   
   
   ### Thanks to 
