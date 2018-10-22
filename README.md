@@ -69,7 +69,7 @@ Notes for the Play Market Version:
   
   ### Contact Me on Telegram
  
-![img](https://img.shields.io/badge/Dr-WASEF-green.svg?style=flat?logo=telegram?logocolor=blue?)
+![img](https://img.shields.io/badge/Dr-WASEF-green.svg?style=flat?link=http://t.me/Caseation&http://t.me/Caseation?)
   
   
   ### Thanks to 
