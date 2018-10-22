@@ -1,9 +1,9 @@
 
 
 
-<p align=center">
+
  
-[![CPL](https://img.shields.io/badge/CUSTOMIZED&nbsp;PIXEL&nbsp;LAUNCHER-brightgreen.svg?style=popout)](www.google.com)
+![img](https://img.shields.io/badge/CUSTOMIZED&nbsp;PIXEL&nbsp;LAUNCHER-brightgreen.svg?style=popout)
  
 <a href="https://imgur.com/CCHCDAV"><img src="https://i.imgur.com/CCHCDAV.png" title="source: imgur.com" /></a>
  
