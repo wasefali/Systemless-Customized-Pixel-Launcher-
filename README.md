@@ -33,6 +33,8 @@ I just made this module for easy replacement of stock launcher  hassle free .
 ### All features 
 
 Pie Recents not Supported for Now . You've been Warned Pie User .
+
+
 [13 Screenshots](https://drive.google.com/folderview?id=1ivc9WK5sxHeNpqOQTBQmXJV8ySTsP5dw)
 
 [Widget Settings](https://drive.google.com/file/d/17ASJLOoInfaZaPTYDCf_0SHlSnQuN6H9/view?usp=drivesdk)
