@@ -24,7 +24,7 @@
 ## $$
 **[Donate Whataudoinghere](https://play.google.com/store/apps/details?id=ru.whatau.donationapp) buying his donation app**
 
-I just made this module for easy replacement of stock lawncher  hassle free .
+I just made this module for easy replacement of stock launcher  hassle free .
 
 ### Screenshots
 
@@ -32,6 +32,7 @@ I just made this module for easy replacement of stock lawncher  hassle free .
 
 ### All features 
 
+Pie Recents not Supported for Now . You've been Warned Pie User .
 [13 Screenshots](https://drive.google.com/folderview?id=1ivc9WK5sxHeNpqOQTBQmXJV8ySTsP5dw)
 
 [Widget Settings](https://drive.google.com/file/d/17ASJLOoInfaZaPTYDCf_0SHlSnQuN6H9/view?usp=drivesdk)
@@ -74,9 +75,9 @@ Notes for the Play Market Version:
   
   ### Thanks to 
   
-  •**[Gloeyisk](https://t.me/gloeyisk)**   **for guidance in various matters**
-  
-  
+
+
+
   •**[JayminSuthar](https://t.me/sjaymin)**  **for guidance in various field**
   
   •**[Mortal1711](https://t.me/Mortal1711) for testing**
